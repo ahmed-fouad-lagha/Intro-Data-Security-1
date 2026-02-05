@@ -8,10 +8,6 @@
 </p>
 
 > **A hands-on practicum for adversarial machine learning, privacy attacks, and secure AI systems.**
-
-**Department of Data Science and Engineering (DDSE)**  
-**Faculty of Informatics, Eötvös Loránd University (ELTE)**
-
 ---
 
 ## Instructors & Staff
