@@ -23,12 +23,6 @@
 
 This course provides a comprehensive, hands-on introduction to the security and privacy of machine learning systems. Students will learn to **attack**, **defend**, and **audit** AI models through 16 practical labs organized into 9 thematic modules.
 
-### Key Topics
-- **Adversarial Attacks:** Evasion, Poisoning, Trojans, Prompt Injection
-- **Privacy Attacks:** Membership Inference, Model Inversion
-- **Defenses:** Differential Privacy (DP-SGD), Federated Learning, Adversarial Training
-- **Synthetic Data:** VAE/GAN/Diffusion for privacy-preserving data generation
-
 ## Lab Curriculum
 
 The course is organized into **9 modules**, transitioning from foundations to advanced security integration.
